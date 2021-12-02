@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\SpaceCounter.exe
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\SpaceCounter.deps.json
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\SpaceCounter.runtimeconfig.json
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\SpaceCounter.dll
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\ref\SpaceCounter.dll
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\bin\Debug\net6.0\SpaceCounter.pdb
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.dll
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\ref\SpaceCounter.dll
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.pdb
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\SpaceCounter\SpaceCounter\obj\Debug\net6.0\SpaceCounter.csproj.AssemblyReference.cache

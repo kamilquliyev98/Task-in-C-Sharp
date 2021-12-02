@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47108c33-74c7-43b7-a411-efd969bd7010": {
+      "ProjectGuid": "47108c33-74c7-43b7-a411-efd969bd7010",
+      "DisplayName": "SpaceCounter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

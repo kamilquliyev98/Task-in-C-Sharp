@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\MonthsSeasons.exe
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\MonthsSeasons.deps.json
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\MonthsSeasons.runtimeconfig.json
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\MonthsSeasons.dll
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\ref\MonthsSeasons.dll
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\bin\Debug\net6.0\MonthsSeasons.pdb
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.dll
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\ref\MonthsSeasons.dll
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.pdb
+C:\Users\Kamil\source\repos\MonthsSeasons\MonthsSeasons\obj\Debug\net6.0\MonthsSeasons.genruntimeconfig.cache

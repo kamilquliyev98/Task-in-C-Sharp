@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\SumOfDigitsOfANumber.exe
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\SumOfDigitsOfANumber.deps.json
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\SumOfDigitsOfANumber.runtimeconfig.json
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\SumOfDigitsOfANumber.dll
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\ref\SumOfDigitsOfANumber.dll
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\bin\Debug\net6.0\SumOfDigitsOfANumber.pdb
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.dll
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\ref\SumOfDigitsOfANumber.dll
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.pdb
+C:\Users\Kamil\source\repos\SumOfDigitsOfANumber\SumOfDigitsOfANumber\obj\Debug\net6.0\SumOfDigitsOfANumber.genruntimeconfig.cache
