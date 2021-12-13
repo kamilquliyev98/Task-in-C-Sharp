@@ -1,0 +1,10 @@
+C:\Users\Kamil\source\repos\CalculatorApp\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Kamil\source\repos\CalculatorApp\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Kamil\source\repos\CalculatorApp\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Kamil\source\repos\CalculatorApp\Library\obj\Debug\netcoreapp3.1\Library.pdb
