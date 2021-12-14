@@ -1,0 +1,14 @@
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.exe
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.deps.json
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.runtimeconfig.json
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.dll
+C:\Users\Kamil\source\repos\Education\Education\bin\Debug\netcoreapp3.1\Education.pdb
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.dll
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.pdb
+C:\Users\Kamil\source\repos\Education\Education\obj\Debug\netcoreapp3.1\Education.genruntimeconfig.cache
