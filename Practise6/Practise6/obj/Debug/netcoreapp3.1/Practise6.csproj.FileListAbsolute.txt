@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.AssemblyInfo.cs
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.exe
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.deps.json
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.runtimeconfig.json
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.runtimeconfig.dev.json
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.dll
+C:\Users\User\source\repos\Practise6\Practise6\bin\Debug\netcoreapp3.1\Practise6.pdb
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.dll
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.pdb
+C:\Users\User\source\repos\Practise6\Practise6\obj\Debug\netcoreapp3.1\Practise6.genruntimeconfig.cache
